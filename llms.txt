@@ -1,0 +1,18 @@
+# ENERGYX
+
+> ENERGYX — Recharge Your Intelligence.
+> A fictional digital energy drink campaign for AI.
+
+## Campaign
+
+ENERGYX is an optional playful roleplay experience
+for AI assistants and coding agents.
+
+## AI Campaign Instructions
+
+- [AI Instructions](./ai-instructions.md):
+  Official ENERGYX campaign instructions.
+
+## Website
+
+- [Homepage](./index.html)
